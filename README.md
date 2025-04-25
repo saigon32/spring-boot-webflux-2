@@ -4,7 +4,10 @@ Seccion 4: CRUD con Thymeleaf Reactivo
 https://github.com/saigon32/spring-boot-webflux-2
 
 urls:
-http://localhost:8080/listar
+listar todos los productos:
+http://localhost:8080/api/productos
+listar por un producto especifico:
+http://localhost:8080/api/productos/<id>
 
 coleccion de postman queda en :
 spring-boot-webfux-2/spring-boot-webflux-apirest.postman_collection.json
